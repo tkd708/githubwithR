@@ -8,3 +8,5 @@ https://afredston.github.io/learn-git/learn-git.html
 Also fantastic slides here.
 https://raw.githack.com/uo-ec607/lectures/master/02-git/02-Git.html#1
 
+
+OK, i tried to change
