@@ -5,6 +5,9 @@ This is a test project to learn how to integrate R workflow with github.
 I much appreciate this tutorial.
 https://afredston.github.io/learn-git/learn-git.html
 
+Great tips on collaborative work/coding from the same author
+https://afredston.github.io/collaborations_workflows_lecture/collaborations_workflows_lecture.html
+
 Also fantastic slides here.
 https://raw.githack.com/uo-ec607/lectures/master/02-git/02-Git.html#1
 
