@@ -27,5 +27,9 @@ https://happygitwithr.com/ssh-keys.html
 
 
 A sidenote, Xaringan package for HTML presentation slides
+
 https://slides.yihui.org/xaringan/
+
 https://github.com/yihui/xaringan
+
+https://xaringan.gallery/
