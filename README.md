@@ -35,6 +35,9 @@ https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generati
 
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases
 
+https://github.com/lukesampson/pshazz/issues/70
+
+
 A sidenote, Xaringan package for HTML presentation slides
 
 https://slides.yihui.org/xaringan/
