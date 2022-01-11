@@ -25,6 +25,15 @@ https://github.com/grantmcdermott/bycatch
 I should check out how to set up SHH keys
 https://happygitwithr.com/ssh-keys.html
 
+https://qiita.com/kawahara_hiroyuki/items/3ad35c548d1007c12109
+
+https://dev.classmethod.jp/articles/github-mac-terminal-ssh-login/
+
+https://docs.github.com/ja/authentication/troubleshooting-ssh/error-permission-denied-publickey
+
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/working-with-ssh-key-passphrases
 
 A sidenote, Xaringan package for HTML presentation slides
 
